@@ -1,0 +1,6 @@
+eno=int(input("Enter EmpNo:"))
+ename=input("enter EmpName:")
+esal=float(input("Enter EmpSal:"))
+print("EmpNo is",eno)
+print("EmpName is:",ename)
+print("EmpSal is:",esal)
